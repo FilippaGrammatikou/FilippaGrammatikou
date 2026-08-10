@@ -3,7 +3,7 @@
 I'm Filippa, a software engineer with an MSc in Computer Science, focused on **.NET and full-stack development**, based in Athens, Greece.
 
 I primarily work with **C#, ASP.NET Core, EF Core and SQL**, alongside frontend development with **Angular, JavaScript, and CSS**.
-With a background in visual digital media, I enjoy both the engineering behind applications and the quality of the interface users interact with.
+With a BA in visual digital media, I enjoy both the engineering behind applications and the quality of the interface users interact with.
 
 Currently building **AegeanLogs**, a full-stack maritime operations platform based on realistic port-call workflows.
 
