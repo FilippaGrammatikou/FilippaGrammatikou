@@ -1,22 +1,21 @@
 ## Hey there 👋
 
-I'm Filippa, a software developer with an MSc in Computer Science, focused on **.NET and full-stack development**.
+I'm Filippa, a software engineer with an MSc in Computer Science, focused on **.NET and full-stack development**, based in Athens, Greece.
 
-I primarily work with **C#, ASP.NET Core, EF Core and SQL**, alongside frontend development with **Angular, JavaScript, HTML and CSS**.
+I primarily work with **C#, ASP.NET Core, EF Core and SQL**, alongside frontend development with **Angular, JavaScript, and CSS**.
+With a background in visual digital media, I enjoy both the engineering behind applications and the quality of the interface users interact with.
 
-With a background in visual digital media, I care about both the engineering behind an application and the quality of the interface people interact with.
-
-Currently building **AegeanLogs** — a full-stack maritime operations platform based on realistic port-call workflows.
+Currently building **AegeanLogs**, a full-stack maritime operations platform based on realistic port-call workflows.
 
 ---
 
 ### Tools & Tech
 
 - **Backend:** C#, .NET, ASP.NET Core, EF Core, LINQ
-- **Frontend:** Angular, JavaScript, HTML, CSS
+- **Frontend:** Angular, JavaScript, CSS
 - **Databases:** SQL Server, PostgreSQL, MySQL
 - **Engineering:** Git, Docker, xUnit, GitHub Actions
-- **Tools:** Visual Studio, VS Code, SSMS, Postman
+- **Tools:** Visual Studio, VS Code, SSMS, Postman, Adobe Suit, Krita
 
 ---
 
