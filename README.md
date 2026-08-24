@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm Filippa, a software engineer with an MSc in Computer Science, focused on **.NET and full-stack development**, based in Athens, Greece.
+I'm Filippa, a software engineer focused on **.NET and full-stack development**, based in Athens, Greece.
 I primarily work with **C#, ASP.NET Core, EF Core and SQL**, alongside frontend development with **Angular**.
 ---
 
