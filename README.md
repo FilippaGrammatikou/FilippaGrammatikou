@@ -1,4 +1,4 @@
-## Hey there 👋
+## Hey 👋
 
 I'm Filippa, a software engineer focused on **.NET and full-stack development**, based in Athens, Greece.
 I primarily work with **C#, ASP.NET Core, EF Core and SQL**, alongside frontend development with **Angular**.
